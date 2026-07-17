@@ -7,12 +7,13 @@ As part of my cybersecurity learning journey, I completed my first Linux securit
 The objective of this lab was to become familiar with the Linux command line and learn how security analysts investigate systems by examining logs, identifying user activity, and understanding how authentication events are recorded.
 
 Rather than simply learning Linux commands, this project focused on using those commands to answer investigative questions, an essential skill for SOC Analysts and Incident Responders.
+
 ---
 
 ## Related Article
 
 I documented the learning journey and lessons learned in more detail on Medium:
-[Network Fundamentals](https://medium.com/@koskiddoo/network-fundamentals-understanding-how-devices-communicate-e1c2d651e910)
+[Linux Investigation](https://medium.com/@koskiddoo/my-first-linux-security-investigation-learning-to-think-like-a-soc-analyst-b8d45c723551)
 
 ---
 
@@ -70,6 +71,10 @@ _What I learned_
 ![Current Directory](screenshots/current-directory.png)
 
 
+
+
+
+
 ### 2. Investigating Authentication Logs
 
 Next, I examined authentication logs to understand how login events are recorded.
@@ -101,6 +106,10 @@ This demonstrated how Linux records authentication events that analysts can use 
 
 
 
+
+
+
+
 ### 3. Filtering Log data
 
 Security analysts rarely read entire log files.
@@ -129,6 +138,9 @@ This reinforced the importance of efficient log filtering during investigations.
 
 
 
+
+
+
 ### 4. Monitoring recent activity
 
 I then viewed the most recent log entries to understand how analysts monitor live systems.
@@ -150,6 +162,9 @@ The tail command is useful for reviewing the latest system events and is commonl
 
 
 ![Current activitities](screenshots/live-auth-act.png)
+
+
+
 
 ---
 
