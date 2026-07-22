@@ -1,4 +1,4 @@
-# Linux-Security-Investigation-Report
+# Linux Security Investigation Report
 
 ## OVERVIEW
 
